@@ -1,0 +1,3 @@
+br\edu\ifsp\pep\server\main\App.class
+br\edu\ifsp\pep\server\servico\CertidaoNascimentoImp.class
+br\edu\ifsp\pep\server\servico\CertidaoNascimento.class
